@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    border: 1px solid rgb(30, 100, 36);
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .titulo {
+    background-color: rgb(81, 158, 81);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .conteudo{
+    font-size: 16px;
+  }
+  
